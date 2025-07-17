@@ -54,15 +54,15 @@
 })();
 */
 const messages = [
-  "Hüseyin",
-  "Hüseyin",
-  "Hüseyin",
-  "Hüseyin",
-  "Hüseyin",
-  "Hüseyin",
-  "Hüseyin",
-  "Hüseyin
-  
+  "Emin misin?",
+  "Gerçekten emin misin??",
+  "Tam olarak emin olduğunu söyleyebilir misin?",
+  "Bir daha düşün lütfen!",
+  "Hayır dersen çok üzülürüm...",
+  "Gerçekten çok üzülürüm...",
+  "Çok ama çok üzülürüm...",
+  "Peki tamam, artık sormayacağım...",
+  "Şaka yaptım, lütfen evet de! ❤️"
 ];
 
 
