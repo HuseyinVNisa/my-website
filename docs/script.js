@@ -62,7 +62,7 @@ const messages = [
   "Hüseyin",
   "Hüseyin",
   "Hüseyin
-  "Hüseyin"
+  
 ];
 
 
